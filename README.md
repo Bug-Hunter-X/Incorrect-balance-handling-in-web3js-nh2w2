@@ -1,0 +1,1 @@
+This example demonstrates a common error in Dapps built with web3js where the balance returned by a contract is treated as a string instead of a BigNumber. This can lead to incorrect comparisons and calculations. The solution shows how to properly handle BigNumber values to avoid such errors.
